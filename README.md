@@ -6,9 +6,8 @@
 - 현재 Front-end 개발자 준비 중 입니다.
 
 ### 소개
-- 웹 FE 개발자가 되기 위해 준비하고 있습니다.
-- js/ts와 React라이브러리를 활용한 웹개발을 학습하고 있습니다.
-- 새로운 기술에 지속적인 관심을 가지고 있으며, 지속적인 성장을 위해 꾸준히 학습하고 있습니다.
+- front-end 주니어 개발자 입니다.
+- 새로운 기술에 대한 관심을 가지고 있으며, 지속적인 성장을 위해 꾸준히 학습하고 있습니다.
 
 <!---
 KMJ192/KMJ192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
